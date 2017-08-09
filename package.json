@@ -21,7 +21,7 @@
     "dotenv": "^4.0.0",
     "express": "^4.15.x",
     "socket.io":"^0.9.19",
-    "impress-server":"git://github.com/donghee214/impressbest2#master"
+    "impress-server":"^0.0.8r"
   },
   "author": "IBM Corp",
   "license": "Apache-2.0"
